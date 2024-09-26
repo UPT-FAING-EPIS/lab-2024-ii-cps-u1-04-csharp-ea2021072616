@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Bank.WebApi</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>fd7c4fcb-173b-4368-9519-163d18690a33</ProjectGuid>
+  <FullPath>C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\Bank.WebApi\Bank.WebApi.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\.sonarqube\conf\2\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\.sonarqube\out\2\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\.sonarqube\out\2</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net8.0</TargetFramework>
+</ProjectInfo>

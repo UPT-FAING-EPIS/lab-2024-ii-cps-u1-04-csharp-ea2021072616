@@ -1,0 +1,10 @@
+﻿C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\Bank.WebApi\Models\BankAccount.cs
+C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\Bank.WebApi\Program.cs
+C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\Bank.WebApi\obj\Debug\net8.0\Bank.WebApi.GlobalUsings.g.cs
+C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\Bank.WebApi\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\Bank.WebApi\obj\Debug\net8.0\Bank.WebApi.AssemblyInfo.cs
+C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\Bank.WebApi\obj\Debug\net8.0\Bank.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\Bank.WebApi\appsettings.Development.json
+C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\Bank.WebApi\appsettings.json
+C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\Bank.WebApi\Bank.WebApi.http
+C:\Users\TheGoat\Downloads\lab 4\lab-2024-ii-cps-u1-04-csharp-ea2021072616\Bank\Bank.WebApi\Properties\launchSettings.json
